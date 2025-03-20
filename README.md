@@ -1,7 +1,6 @@
 # OpinionSense: Unveiling the Emotions Behind Words
 
-![image](https://drive.google.com/file/d/1HAM172lPvTAD6abdHAUYaR5F2iKEDNog/view?usp=sharing)
-
+DataSet - https://drive.google.com/file/d/1HAM172lPvTAD6abdHAUYaR5F2iKEDNog/view?usp=sharing
 This project builds a sentiment analysis model using a Recurrent Neural Network (RNN) to classify movie reviews as positive or negative. Here's a breakdown of its key steps:
 
 ## 1. Data Acquisition and Preprocessing:
